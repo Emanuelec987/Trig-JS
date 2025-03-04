@@ -3,3 +3,4 @@
 Notes and usage details for Trig-JS.
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
