@@ -58,3 +58,4 @@ Notes and usage details for Trig-JS.
 - add a note about the defaults
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
